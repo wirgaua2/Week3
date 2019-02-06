@@ -1,6 +1,6 @@
 # Week 3 Assignment
 
-#Author
+##Author
 Alana Wirgau
 
 Ferris State University
